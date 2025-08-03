@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+requests
+langchain
+openai
+faiss-cpu
+"unstructured[all]"
+huggingface-hub
+sentence-transformers
+
+
