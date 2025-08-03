@@ -5,7 +5,7 @@ requests
 langchain
 openai
 faiss-cpu
-"unstructured[all]"
+unstructured[all]
 huggingface-hub
 sentence-transformers
 
