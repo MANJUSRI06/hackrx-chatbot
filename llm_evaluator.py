@@ -9,7 +9,7 @@ def generate_answers(questions, retriever):
             temperature=0,
             model_name="openai/gpt-3.5-turbo",  # ✅ OpenRouter requires this format
             base_url="https://openrouter.ai/api/v1",  # ✅ Required for OpenRouter
-            api_key="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"  # ✅ Your key
+            api_key="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"  # ✅ Your key
         )
         print("[INFO] OpenRouter LLM initialized.")
     except Exception as e:
