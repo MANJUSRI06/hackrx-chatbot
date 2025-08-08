@@ -2,8 +2,7 @@ fastapi
 uvicorn
 langchain
 langchain_community
-requests
-pydantic
 pypdf
 sentence-transformers
-streamlit
+requests
+pydantic
