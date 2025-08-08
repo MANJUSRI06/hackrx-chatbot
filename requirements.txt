@@ -6,3 +6,5 @@ pypdf
 sentence-transformers
 requests
 pydantic
+faiss-cpu
+sentence-transformers
